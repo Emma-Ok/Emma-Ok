@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi. I´m a System Engineer 👋
+
+# Hi, I'm a System Engineer 👋
+
+I'm a **System Engineer** student from the **University of Antioquia**, passionate about technology and collaborative work. I'm empathetic, eager to help, and always ready to learn and share knowledge. Currently, I serve as a **teaching assistant** in the **Logic & Representation 2** course.
+
+## My Skills 🚀
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,python,html,sql,postgres,aws)](https://skillicons.dev)
+
+## Badges 🛠️
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?logo=pug&logoColor=A86454)
+
+---
+
+
 
 <!--
 **Emma-Ok/Emma-Ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
