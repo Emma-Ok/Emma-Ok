@@ -6,7 +6,7 @@ I'm a **System Engineer** student from the **University of Antioquia**, passiona
 
 ## My Skills 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,python,html,sql,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,python,html,postgres,aws)](https://skillicons.dev)
 
 ## Badges 🛠️
 
