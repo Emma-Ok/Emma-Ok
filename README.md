@@ -18,7 +18,7 @@ I'm a **System Engineer** student from the **University of Antioquia**, passiona
 
 ---
 
-
+![Languages Classic](dist/github-contribution-grid-snake.svg)
 
 <!--
 **Emma-Ok/Emma-Ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
