@@ -14,7 +14,7 @@ I'm a **System Engineer** student from the **University of Antioquia**, passiona
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?logo=pug&logoColor=A86454)
+![Cat](https://img.shields.io/badge/Cat-FFF?logo=cat&logoColor=orange&label=%F0%9F%90%B1)
 
 ---
 
