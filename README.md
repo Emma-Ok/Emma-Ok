@@ -1,4 +1,3 @@
-## Hi. I´m a System Engineer 👋
 
 # Hi, I'm a System Engineer 👋
 
