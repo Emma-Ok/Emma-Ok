@@ -1,11 +1,24 @@
 
-# Hi, I'm a System Engineer 👋
+# 👨‍💻 Hi there! I'm Emmanuel — System Engineer in the making 🇨🇴
 
-I'm a **System Engineer** student from the **University of Antioquia**, passionate about technology and collaborative work. I'm empathetic, eager to help, and always ready to learn and share knowledge. Currently, I serve as a **teaching assistant** in the **Logic & Representation 2** course.
+🎓 I'm a **System Engineering student** at the **University of Antioquia (UdeA)**, passionate about building solutions through **code, collaboration, and curiosity**. I'm driven by challenges and thrive when learning new technologies or helping others grow.
 
-## My Skills 🚀
+🚀 Currently:
+- 👨‍🏫 **Teaching Assistant** for *Logic & Representation II* at UdeA.
+- ☁️ **Member of the AWS Core Team - UdeA**, promoting cloud computing and hands-on learning with AWS.
+- 💬 Exploring areas like **machine learning**, **backend development**, and **systems design**.
+
+---
+
+## 🚀 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,python,html,postgres,aws)](https://skillicons.dev)
+
+### 🏅 AWS Core Team Badge  
+[![AWS Core Team](https://images.credly.com/size/80x80/images/68fdcd60-3f31-4a24-b87a-90110ab11ee9/blob)](https://www.credly.com/badges/68fdcd60-3f31-4a24-b87a-90110ab11ee9/public_url)
+
+---
+
 
 ## Badges 🛠️
 
