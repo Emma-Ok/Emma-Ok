@@ -1,7 +1,7 @@
 
 # 👨‍💻 Hi there! I'm Emmanuel 
 
-🎓 I'm a **System Engineering student** at the **University of Antioquia (UdeA)**, passionate about building solutions through **code, collaboration, and curiosity**. I'm driven by challenges and thrive when learning new technologies or helping others grow.
+🎓 I'm a **System Engineering** at the **University of Antioquia (UdeA)**, passionate about building solutions through **code, collaboration, and curiosity**. I'm driven by challenges and thrive when learning new technologies or helping others grow.
 
 🚀 Currently:
 - 👨‍🏫 **Teaching Assistant** for *Logic & Representation II* at UdeA.
