@@ -30,9 +30,6 @@
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
-## 🏅 Badges
-
-[![AWS Core Team](https://images.credly.com/size/80x80/images/68fdcd60-3f31-4a24-b87a-90110ab11ee9/blob)](https://www.credly.com/badges/68fdcd60-3f31-4a24-b87a-90110ab11ee9/public_url)
 
 
 ---
